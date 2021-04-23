@@ -4,14 +4,17 @@ The Automatic Plant watering system I made needed a Soil Moisture Sensor, a Rela
 
 ## Components Used:
 Hardware Descriptions-
- * ATmega 328 microcontroller 
- * Moisture sensor 
- * 12V DC motor  
- * Relay module 
- * Jump wire 
- * Power supply  
+  * ATmega 328 microcontroller 
+  * Moisture sensor 
+  * 12V DC motor  
+  * Relay module 
+  * Jump wire 
+  * Power supply  
+  * 1 Relay
+  * 1 DC pump
+  * PVC tubes
 
 Software Description-
- * Arduino IDE
+  * Arduino IDE
  
 
