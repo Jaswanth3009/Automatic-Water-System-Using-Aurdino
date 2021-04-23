@@ -5,10 +5,11 @@ The Automatic Plant watering system I made needed a Soil Moisture Sensor, a Rela
 Components Used:
 Hardware Descriptions-
  1.ATmega 328 microcontroller 
- 2.Moisture sensor  12V DC motor  
- 3.Relay module 
- 4.Jump wire 
- 5.Power supply  
+ 2.Moisture sensor 
+ 3.12V DC motor  
+ 4.Relay module 
+ 5.Jump wire 
+ 6.Power supply  
 Software Description-
  1.Arduino IDE
  
